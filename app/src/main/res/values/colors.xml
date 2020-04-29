@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#000000</color>
+    <color name="colorPrimaryDark">#121213</color>
+    <color name="colorAccent">#000000</color>
+
+    <color name="white">#000000</color>
+
+    <color name="number_color">   	#ADFF2F </color>
+    <color name="function_color"> 	#f45555</color>
+    <color name="equal_color">#E2E2CF</color>
+
+</resources>
